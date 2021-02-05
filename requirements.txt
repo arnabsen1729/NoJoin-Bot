@@ -1,0 +1,14 @@
+APScheduler==3.6.3
+certifi==2020.12.5
+cffi==1.14.4
+chardet==4.0.0
+cryptography==3.3.1
+idna==2.10
+pycparser==2.20
+python-telegram-bot==13.2
+pytz==2021.1
+requests==2.25.1
+six==1.15.0
+tornado==6.1
+tzlocal==2.1
+urllib3==1.26.3
