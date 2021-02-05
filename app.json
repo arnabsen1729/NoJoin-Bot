@@ -1,0 +1,14 @@
+{
+  "name": "NoJoin Bot",
+  "description": "A simple telegram bot to get rid of annoying join messages",
+  "repository": "https://github.com/arnabsen1729/NoJoin-Bot",
+  "keywords": [
+    "telegram-bot",
+    "python"
+  ],
+  "env": {
+    "BOT_API_KEY": {
+      "description": "The API key for the bot recevied during App registration"
+    }
+  }
+}
