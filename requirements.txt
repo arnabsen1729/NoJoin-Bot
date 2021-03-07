@@ -2,7 +2,7 @@ APScheduler==3.6.3
 certifi==2020.12.5
 cffi==1.14.4
 chardet==4.0.0
-cryptography==3.3.1
+cryptography==3.3.2
 idna==2.10
 pycparser==2.20
 python-telegram-bot==13.2
